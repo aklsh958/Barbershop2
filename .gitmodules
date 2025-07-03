@@ -1,0 +1,3 @@
+[submodule "Barbershop"]
+	path = Barbershop
+	url = https://github.com/aklsh958/Barbershop.git
